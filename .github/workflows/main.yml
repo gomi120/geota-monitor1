@@ -32,6 +32,9 @@ jobs:
       - name: Collect posts
         run: npm run collect
 
+      - name: Show trigger
+        run: echo "Triggered by ${{ github.event_name }}"
+  
       - name: Save collected data
         run: |
           git config user.name "github-actions[bot]"
