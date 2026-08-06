@@ -1,0 +1,12 @@
+{
+  "name": "geota-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node src/collect.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}
