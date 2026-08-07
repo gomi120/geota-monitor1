@@ -3,7 +3,7 @@ name: Collect Geota Jujak Satongpaldal
 on:
   workflow_dispatch:
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    - cron: "7,17,27,37,47,57 * * * *"
 
 permissions:
   contents: write
@@ -14,30 +14,23 @@ concurrency:
 
 jobs:
   collect:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "22"
 
-      - name: Install dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Install Chromium
-        run: npx playwright install --with-deps chromium
+      - run: npx playwright install --with-deps chromium
 
-      - name: Collect posts
-        run: npm run collect
+      - run: npm run collect
 
-      - name: Commit collected data
+      - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -45,16 +38,10 @@ jobs:
           git add docs/data.json
 
           if git diff --cached --quiet; then
-            echo "No data changes"
+            echo "No changes"
             exit 0
           fi
 
           git commit -m "Update collected data"
-
-          for i in 1 2 3; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
-            echo "Push failed, retrying..."
-            sleep 10
-          done
-
-          exit 1
+          git pull --rebase origin main
+          git push origin HEAD:main
