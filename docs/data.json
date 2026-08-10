@@ -1,12 +1,2280 @@
 {
   "ok": true,
   "sourceUrl": "https://geota.co.kr/gersang/satongpaldal?serverId=2",
-  "collectedAt": "2026-08-09T23:58:15.665Z",
+  "collectedAt": "2026-08-10T05:12:02.151Z",
   "collectedCount": 300,
-  "storedCount": 1530,
+  "storedCount": 1573,
   "maxItemsPerRun": 300,
   "keepHours": 24,
   "items": [
+    {
+      "id": "dbe120c781d2da2844f025df",
+      "nickname": "파마다",
+      "content": "팜]각성석1.2/권능2.5/봉돌봉서1.15대량ㅍ",
+      "displayTime": "2시간 전",
+      "sourceRank": 140,
+      "firstSeenAt": "2026-08-06T12:21:36.765Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b0b60b741374461d933ee3ed",
+      "nickname": "무케-",
+      "content": "어주 개당700 대소량 ㅅㅅ",
+      "displayTime": "4시간 전",
+      "sourceRank": 248,
+      "firstSeenAt": "2026-08-09T14:07:15.597Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f2983d0409c844ca976ca04c",
+      "nickname": "기병",
+      "content": "삼]각지국부35 부동부107 고명월108 천라7",
+      "displayTime": "1시간 전",
+      "sourceRank": 96,
+      "firstSeenAt": "2026-08-09T15:53:38.278Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "086d790d593ac1fd9b9d5762",
+      "nickname": "로랑블랑",
+      "content": "5북두증장반쌍ㅍㅍ +@ 5북두군다리반쌍ㅅㅅ",
+      "displayTime": "2분 전",
+      "sourceRank": 4,
+      "firstSeenAt": "2026-08-09T15:53:38.278Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e9c9a256d25b38169f4650fb",
+      "nickname": "종마이",
+      "content": "공5 각천궁 ㅍㅍ 궁+40 or 290",
+      "displayTime": "1시간 전",
+      "sourceRank": 125,
+      "firstSeenAt": "2026-08-09T15:53:38.278Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ac3dd2c392803238c6f0f156",
+      "nickname": "용천공",
+      "content": "광태반짝 27.5 팜 // 태반 12.5 삼",
+      "displayTime": "7시간 전",
+      "sourceRank": 296,
+      "firstSeenAt": "2026-08-09T19:22:09.891Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "43be1f43d1d78898e5d3f346",
+      "nickname": "띠브레",
+      "content": "수호부 오 3.0 구매합니다",
+      "displayTime": "8시간 전",
+      "sourceRank": 298,
+      "firstSeenAt": "2026-08-09T21:05:54.106Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "fa04bd555d0b7a9b62adc802",
+      "nickname": "웡기옥",
+      "content": "혼돌의돌 개당 2400에 100개 삽니다",
+      "displayTime": "8시간 전",
+      "sourceRank": 299,
+      "firstSeenAt": "2026-08-09T21:05:54.106Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b32a41a9e8d659b085efe163",
+      "nickname": "신여포",
+      "content": "손자병법 4.7 삽니다",
+      "displayTime": "9시간 전",
+      "sourceRank": 300,
+      "firstSeenAt": "2026-08-09T21:05:54.106Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "30632d3b52df6e035e0fa8da",
+      "nickname": "1일@",
+      "content": "신수부청룡/주작+6000만으로백호부삽니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 267,
+      "firstSeenAt": "2026-08-09T21:05:54.106Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "492ef381dcddd12627703734",
+      "nickname": "중하하하하",
+      "content": "삼) 대위덕부 24 삽니다",
+      "displayTime": "7시간 전",
+      "sourceRank": 297,
+      "firstSeenAt": "2026-08-09T04:05:45.402Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "8843627609bb7b3a0a8beae8",
+      "nickname": "석원희",
+      "content": "북두풀지국반쌍+@ 북두풀항삼반쌍사요",
+      "displayTime": "7시간 전",
+      "sourceRank": 294,
+      "firstSeenAt": "2026-08-09T22:15:22.731Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6f9abfdb095d6e1297d30d1e",
+      "nickname": "오늘하루에",
+      "content": "백웅삽니다. ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "7시간 전",
+      "sourceRank": 295,
+      "firstSeenAt": "2026-08-09T22:15:22.731Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "83754cf1ec78bb2863fb3e11",
+      "nickname": "상문신장",
+      "content": "삼)진각명왕장 명왕장+110 삼니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 279,
+      "firstSeenAt": "2026-08-09T04:05:45.402Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9de8d9823b8e8e112b4e37b1",
+      "nickname": "깍둑썰기",
+      "content": "삼] 반고셋2개 팜]3천추풀항삼65",
+      "displayTime": "5시간 전",
+      "sourceRank": 268,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "51b1ab0ab2b1008022c29c1c",
+      "nickname": "와키자카",
+      "content": "어주 552개 판매합니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 269,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "24728e62f71220fb2eeb5cf0",
+      "nickname": "용천공",
+      "content": "광태반짝 27.5 쌍55 팜 / 태반 12.5 삼",
+      "displayTime": "5시간 전",
+      "sourceRank": 270,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "075329999caf371f73b02cfd",
+      "nickname": "멱살구이",
+      "content": "삼]청혼상류봉 14 / 팜] 군다리뚝 65",
+      "displayTime": "5시간 전",
+      "sourceRank": 271,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9eaa8e8f6e8cc3f040cf501a",
+      "nickname": "춘식2",
+      "content": "팜)바반쌍 8억 삼) 250광탄치유 6억",
+      "displayTime": "5시간 전",
+      "sourceRank": 272,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b5c9478caa09e5180ceca710",
+      "nickname": "오늘하루에",
+      "content": "백웅 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "5시간 전",
+      "sourceRank": 273,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1db37494cf6a59192ad39cad",
+      "nickname": "도란또란",
+      "content": "토벌 지정 버티기 배려 0.7 모집중",
+      "displayTime": "5시간 전",
+      "sourceRank": 275,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "08e8ea8b609d51908348209e",
+      "nickname": "배틀",
+      "content": "백호부 11, 풀천라 7에 1셋 삽니다 ㅅㅅㅅ",
+      "displayTime": "5시간 전",
+      "sourceRank": 276,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "517fcaf825d43b045f0986df",
+      "nickname": "순간이동용",
+      "content": "광탄치유사 5.5 구매합니다 사요",
+      "displayTime": "5시간 전",
+      "sourceRank": 277,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b9994fb31c073c2aefc333fd",
+      "nickname": "센서",
+      "content": "캐시 2.3:1 10만원 구매합니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 278,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4b949dcd7cc3998f9c5c099d",
+      "nickname": "강철의",
+      "content": "홍염강세봉14.5 / 풍백셋11 팜!",
+      "displayTime": "5시간 전",
+      "sourceRank": 280,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e1791852c37cec703abf1804",
+      "nickname": "춘식2",
+      "content": "바반쌍 8에 팝니다~!",
+      "displayTime": "5시간 전",
+      "sourceRank": 281,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0194fbdc1c98da74a20fffe0",
+      "nickname": "대치(風)",
+      "content": "광목 잠식분들 특성 5105 쓰시는분?",
+      "displayTime": "5시간 전",
+      "sourceRank": 282,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ae8e44d2c1950f4573fd2f6a",
+      "nickname": "첼시팬",
+      "content": "와레와레가",
+      "displayTime": "5시간 전",
+      "sourceRank": 283,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d90df83ed22a8dfa99441f78",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 팝니다",
+      "displayTime": "6시간 전",
+      "sourceRank": 284,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c258cbdff6362e6e2f1a66f6",
+      "nickname": "卍일",
+      "content": "황금색알삽니다[2.3]",
+      "displayTime": "6시간 전",
+      "sourceRank": 285,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bed3d4ad32b4cb2f5a06390e",
+      "nickname": "대뚱",
+      "content": "팜] 천라셋 7",
+      "displayTime": "6시간 전",
+      "sourceRank": 286,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0e1c62bf19de7887e9cbd889",
+      "nickname": "멱살구이",
+      "content": "청혼상류봉 14 삼ㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "6시간 전",
+      "sourceRank": 287,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "257eb97d74458996bed29b29",
+      "nickname": "동지니애비",
+      "content": "가진 1마리만 잡아주세요~~!!!!",
+      "displayTime": "6시간 전",
+      "sourceRank": 288,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "df4229ed7e41fc14f8787265",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 / 풍백셋 11 팔아요",
+      "displayTime": "6시간 전",
+      "sourceRank": 289,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "73816e41f5d8ec4445fff2c5",
+      "nickname": "신여포",
+      "content": "독조 쌍칼잡이 설령 몬스터 삽니다",
+      "displayTime": "6시간 전",
+      "sourceRank": 290,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "801c52a6994b5110d52f1d31",
+      "nickname": "귀닌",
+      "content": "삼] 군다리부 25 ㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "6시간 전",
+      "sourceRank": 291,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7f95ec8698f43353ee3771c7",
+      "nickname": "동지니애비",
+      "content": "대칸의혼 1마리만 잡아주실분요~~~",
+      "displayTime": "6시간 전",
+      "sourceRank": 292,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d701cbc16c9991ce90aeffc5",
+      "nickname": "고독한세계",
+      "content": "대위덕투구,항삼뚝,야차뚝,야차신 ㅅㅅㅅ",
+      "displayTime": "6시간 전",
+      "sourceRank": 293,
+      "firstSeenAt": "2026-08-09T23:58:15.665Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b3efcc4ff5102a82574049a9",
+      "nickname": "무자본하쿠",
+      "content": "삼] 광목뚝",
+      "displayTime": "2시간 전",
+      "sourceRank": 154,
+      "firstSeenAt": "2026-08-09T14:07:15.597Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "21038611cc38b86baf62bc27",
+      "nickname": "미나리프레",
+      "content": "팜) 축융부 6에 팝니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 234,
+      "firstSeenAt": "2026-08-09T08:26:45.974Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a4ef4ec536f8d43526798cd3",
+      "nickname": "고독한세계",
+      "content": "팜]5북두옥형군달390,북두변대위덕105",
+      "displayTime": "2시간 전",
+      "sourceRank": 164,
+      "firstSeenAt": "2026-08-09T04:05:45.402Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6d37aba6858cefb45d43a62c",
+      "nickname": "김재현2야",
+      "content": "2차(원한,원망,절망신)유료도우미 해요 솬o",
+      "displayTime": "3시간 전",
+      "sourceRank": 201,
+      "firstSeenAt": "2026-08-09T06:32:09.470Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "20374e2d76fcc51479171d34",
+      "nickname": "장집",
+      "content": "[팜] 5북두개양,요광각광목/풍사신셋",
+      "displayTime": "2시간 전",
+      "sourceRank": 166,
+      "firstSeenAt": "2026-08-09T08:26:45.974Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "8731004ff932c6ff9972f739",
+      "nickname": "장집",
+      "content": "[팜] 5북두개양각다문/각광목부",
+      "displayTime": "2시간 전",
+      "sourceRank": 167,
+      "firstSeenAt": "2026-08-09T08:26:45.974Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1ed1283a20e4f782307a3ec3",
+      "nickname": "장집",
+      "content": "[팜] 천상100셋/북방11강셋/수사신셋",
+      "displayTime": "2시간 전",
+      "sourceRank": 169,
+      "firstSeenAt": "2026-08-09T08:26:45.974Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b5e8bf320b87bac21bb5e960",
+      "nickname": "히토바시라",
+      "content": "[블랙맘바]누구나 가능한 매너 상단원 모집",
+      "displayTime": "39분 전",
+      "sourceRank": 44,
+      "firstSeenAt": "2026-08-08T06:26:47.261Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "3d2bb5ba8b93ab9df1f112d7",
+      "nickname": "미녀와미녀",
+      "content": "팜]각광목부/증장부/낙수셋/고명궁/도깨비",
+      "displayTime": "1분 전",
+      "sourceRank": 1,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a1d3513ef5ce1d46d0394908",
+      "nickname": "정묵",
+      "content": "장과로 14 ㅅㅅㅅㅅㅅ",
+      "displayTime": "1분 전",
+      "sourceRank": 2,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "cfe9b36679dcda661cbd02e1",
+      "nickname": "괼모",
+      "content": "고천비 삽니다!!",
+      "displayTime": "2분 전",
+      "sourceRank": 3,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d1e7f0ad33924a7b8c15b6e2",
+      "nickname": "히가마나미",
+      "content": "설녀의 기운 삽니다",
+      "displayTime": "2분 전",
+      "sourceRank": 5,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7d5cb63999ff77781cb9f982",
+      "nickname": "미녀와미녀",
+      "content": "팜]각광목부/증장부/낙수셋/고명궁",
+      "displayTime": "2분 전",
+      "sourceRank": 6,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6d10cf49e5c9eae8baa06491",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 / 풍백셋 11 팜",
+      "displayTime": "31분 전",
+      "sourceRank": 38,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "40c3ac15e22e45bf911f8a3c",
+      "nickname": "이수현덕",
+      "content": "축융부 삽니다",
+      "displayTime": "27분 전",
+      "sourceRank": 34,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "56fa06f03b1fe6a8b63dc96e",
+      "nickname": "봇",
+      "content": "팜]어주800 반고셋 250음양 [삼동방100셋]",
+      "displayTime": "4분 전",
+      "sourceRank": 9,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0161f7f3ae4e81959a9b4037",
+      "nickname": "치즈_",
+      "content": "천신항아 팝니다 올지전이나 항아+340억",
+      "displayTime": "47분 전",
+      "sourceRank": 57,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2965fa06291aed6d462771ce",
+      "nickname": "미녀와미녀",
+      "content": "팜]각광목부/증장부/낙수셋",
+      "displayTime": "5분 전",
+      "sourceRank": 11,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "371a43079ec733cab5af743c",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 팜 고천검 74 대위덕부 24삼",
+      "displayTime": "23분 전",
+      "sourceRank": 31,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2f55c6d6de5718bf2ad9c313",
+      "nickname": "카디B",
+      "content": "복희목걸이 ㅅㅅ",
+      "displayTime": "35분 전",
+      "sourceRank": 41,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4d7f491c0d139e9f9b2982e6",
+      "nickname": "괼모",
+      "content": "고천비 삽니다~ 귓말주세요!",
+      "displayTime": "8분 전",
+      "sourceRank": 14,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9023fdb7835636b4d7a6c5e3",
+      "nickname": "월하또순",
+      "content": "안된거면 다시 모의공성 도전해야하나요???",
+      "displayTime": "8분 전",
+      "sourceRank": 15,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f70cb97479f7e0917af579ff",
+      "nickname": "강새",
+      "content": "200기마궁수 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "9분 전",
+      "sourceRank": 16,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "010ba10854990815192a258d",
+      "nickname": "월하또순",
+      "content": "대상인 홈피퀘에서 모의공성 했는데 반영",
+      "displayTime": "9분 전",
+      "sourceRank": 17,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "fa1ed62c4a42dff004676551",
+      "nickname": "쌍투리",
+      "content": "삼] 봉돌 16개 삽니다 ~~",
+      "displayTime": "9분 전",
+      "sourceRank": 18,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "67ef3810ff64ba1e0e5b0815",
+      "nickname": "이청단",
+      "content": "장과로의 인형 ㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "10분 전",
+      "sourceRank": 19,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "711aadb54d530a0b886f44bb",
+      "nickname": "DONDONDOND",
+      "content": "팜] 도깨비기운 9 / 주작부 10.5 ㅍㅍㅍ",
+      "displayTime": "10분 전",
+      "sourceRank": 20,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6d08ac2b65230f488ecd3207",
+      "nickname": "iJun3",
+      "content": "삼) 축융부 5",
+      "displayTime": "11분 전",
+      "sourceRank": 21,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "65449a1c856a8ee4c81fb913",
+      "nickname": "왕유",
+      "content": "팜)250,239광탄치유6.5,5.5,수호부오3.1",
+      "displayTime": "12분 전",
+      "sourceRank": 22,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e29349a9aed3e77aa1d329dd",
+      "nickname": "하쿵지",
+      "content": "무신주몽/미트라장갑/람채화인형팜니다",
+      "displayTime": "12분 전",
+      "sourceRank": 23,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bb33e3493a72d2e8c0e337fa",
+      "nickname": "오른",
+      "content": "삼]치반8.5 캐쉬1:2.2 ㅅㅅㅅ",
+      "displayTime": "16분 전",
+      "sourceRank": 25,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2bfa58014902bb4b90b1e5c0",
+      "nickname": "희별",
+      "content": "철괴리 인형 삽니다 ㅅㅅㅅ",
+      "displayTime": "18분 전",
+      "sourceRank": 27,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ce845cd5631e87a0427ec4e5",
+      "nickname": "오른",
+      "content": "팜]명왕월 고명월 무신주몽 화목 흑침꿀벌",
+      "displayTime": "1시간 전",
+      "sourceRank": 73,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7ee4c2842317a77e0a2f41de",
+      "nickname": "까망보리",
+      "content": "화선기 1.8 삽니다",
+      "displayTime": "18분 전",
+      "sourceRank": 29,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "61e693780aaea19110561341",
+      "nickname": "답변자",
+      "content": "ㅅ일광목뚝,삼세뚝,대위덕뚝.야차뚝,군달신",
+      "displayTime": "23분 전",
+      "sourceRank": 32,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9560d28c3f07149fd2bf28a1",
+      "nickname": "짯",
+      "content": "삼 동방100셋 팜250음양 어주 반고셋",
+      "displayTime": "26분 전",
+      "sourceRank": 33,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "862a7d358a2b3c5d85e0da0d",
+      "nickname": "요코하마검",
+      "content": "삼]고천검 풀천라 ㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "56분 전",
+      "sourceRank": 66,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "03446bc9b9117c06db531daa",
+      "nickname": "숙부",
+      "content": "팜]천황봉 13억",
+      "displayTime": "29분 전",
+      "sourceRank": 36,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "764001372dcaabd73e8ae24a",
+      "nickname": "천공.",
+      "content": "진각 명왕장 명왕장+115 파라요",
+      "displayTime": "30분 전",
+      "sourceRank": 37,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e9a23ac074e9634480d49894",
+      "nickname": "Gamakatsu",
+      "content": "대위덕부 24.5 팝니다",
+      "displayTime": "32분 전",
+      "sourceRank": 39,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9dc4bb53d2d5be3630740aa8",
+      "nickname": "봉티",
+      "content": "힘기450에 130장 삼니다 ㅅㅅㅅㅅㅅ",
+      "displayTime": "38분 전",
+      "sourceRank": 42,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d0ff2f43bbbe68efe2e2945c",
+      "nickname": "쁘띠너부리",
+      "content": "/팜/ 고천극 광목부 팝니다 귓귓",
+      "displayTime": "38분 전",
+      "sourceRank": 43,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bf3eac21cce1d2f604705a4d",
+      "nickname": "적야린",
+      "content": "팜)천선변다문 팝니다",
+      "displayTime": "39분 전",
+      "sourceRank": 45,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "48f9891931084bf0f11e4657",
+      "nickname": "163짤규",
+      "content": "뇌격셋 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "39분 전",
+      "sourceRank": 46,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "be331daf0236a9dd34a6e0a1",
+      "nickname": "탱느",
+      "content": "항삼세부 23.7 ㅍㅍ",
+      "displayTime": "40분 전",
+      "sourceRank": 47,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6b39cdc29c66e44789200733",
+      "nickname": "ehfvnf",
+      "content": "삼] 봉서 5장 개당 1.14에 삽니다!",
+      "displayTime": "40분 전",
+      "sourceRank": 48,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6d95e576f8cbd257e8d348b7",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 팜 고천검 74삼",
+      "displayTime": "1시간 전",
+      "sourceRank": 85,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "cbf7006532e253c3484c0022",
+      "nickname": "카리나유나",
+      "content": "삼] 츠쿠셋 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "42분 전",
+      "sourceRank": 50,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "029d32245dd6bcc5ad61f438",
+      "nickname": "고독한세계",
+      "content": "팜]5북두옥형군다리,북두변대위덕",
+      "displayTime": "42분 전",
+      "sourceRank": 51,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "cf19126de6367accdb0c4495",
+      "nickname": "자래",
+      "content": "삼]황금색알 2.3",
+      "displayTime": "43분 전",
+      "sourceRank": 52,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "5b966ca0897cb86228d0f9b2",
+      "nickname": "짯",
+      "content": "삼 동방100셋 팜250음양 어주 반고,뇌격셋",
+      "displayTime": "2시간 전",
+      "sourceRank": 136,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "48339f878f7122c4159b7106",
+      "nickname": "황.제",
+      "content": "토벌 아무나 2천점 배려파티 귓xx",
+      "displayTime": "44분 전",
+      "sourceRank": 54,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bde2f0e22d7841eb73a589c8",
+      "nickname": "능이백숙",
+      "content": "브라흐마 2.4 삽니다",
+      "displayTime": "46분 전",
+      "sourceRank": 55,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "17f3c640d343e873e9c83cc5",
+      "nickname": "반달형님",
+      "content": "갓증장부 37 ㅅ",
+      "displayTime": "47분 전",
+      "sourceRank": 56,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "8cb0853cb01089bbad8ba023",
+      "nickname": "답변자",
+      "content": "ㅍ5북옥형군다리반쌍,5북군다리반쌍",
+      "displayTime": "1시간 전",
+      "sourceRank": 80,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "efe67a4dd31fc9f17ce707b6",
+      "nickname": "장뇌",
+      "content": "다문반쌍ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "50분 전",
+      "sourceRank": 59,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "db8b329cf716cac74c8002df",
+      "nickname": "강철의",
+      "content": "규보2 흑방24 뇌격셋10.5 삼!",
+      "displayTime": "51분 전",
+      "sourceRank": 60,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7b3f4ce5a1ddc9de89227486",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 /풍백셋11 /숴부오3.1 팜",
+      "displayTime": "1시간 전",
+      "sourceRank": 74,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "58171c2825a236b1f0e48594",
+      "nickname": "답변자",
+      "content": "ㅍ 5북두야차210신천주145",
+      "displayTime": "51분 전",
+      "sourceRank": 62,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9ffdd2c8cad70c1753ea4afa",
+      "nickname": "파황신군",
+      "content": "흑방24,고천비64에사요",
+      "displayTime": "52분 전",
+      "sourceRank": 63,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "cd57275bfc69ab8079731b65",
+      "nickname": "마루모리맨",
+      "content": "삼] 여동빈 11 구해봅니다",
+      "displayTime": "54분 전",
+      "sourceRank": 64,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "10acc50993ae1b4e4cefda59",
+      "nickname": "반달형님",
+      "content": "각증장부 37 ㅅ",
+      "displayTime": "55분 전",
+      "sourceRank": 65,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a916a0a1276f2b3072c1db44",
+      "nickname": "반달형님",
+      "content": "각증장부 37 하나 삽니다",
+      "displayTime": "56분 전",
+      "sourceRank": 67,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "63bb03476677bb85f1eecffd",
+      "nickname": "천종삼",
+      "content": "삼)북두옥형군다리반쌍580북두항삼반쌍450",
+      "displayTime": "57분 전",
+      "sourceRank": 68,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "63704a0567a66849edc2e9ac",
+      "nickname": "백발증장",
+      "content": "천룡부 하나 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "57분 전",
+      "sourceRank": 69,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "90d3d4ecc263520f8f66433b",
+      "nickname": "의성주민",
+      "content": "[원산지] 가진한번만잡아주세요!!!!",
+      "displayTime": "59분 전",
+      "sourceRank": 70,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c93f0fc092c87c6be5442996",
+      "nickname": "멱살구이",
+      "content": "팜] 끈천극 125 / 군다리투구 65",
+      "displayTime": "1시간 전",
+      "sourceRank": 108,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c5666e54fe593a447a404cf0",
+      "nickname": "봇",
+      "content": "혹시 반반자사 좀아시는분?",
+      "displayTime": "1시간 전",
+      "sourceRank": 72,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c64d0562828f103956a8e8a7",
+      "nickname": "강철의",
+      "content": "규보2 흑방24 삼!",
+      "displayTime": "1시간 전",
+      "sourceRank": 75,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "43b800cc388df86973f1e5db",
+      "nickname": "희별",
+      "content": "[삼] 철괴리인형",
+      "displayTime": "1시간 전",
+      "sourceRank": 76,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "fa41068588afc95522cb640f",
+      "nickname": "레트거",
+      "content": "[삼]숴부 미 3장 [팜]주작부1장",
+      "displayTime": "1시간 전",
+      "sourceRank": 77,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "dccf848e4467b5ce684d9cdf",
+      "nickname": "파황신군",
+      "content": "250렙 도끼거한, 고천비, 흑방사요",
+      "displayTime": "1시간 전",
+      "sourceRank": 78,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4c02a9ed838f35381296451e",
+      "nickname": "답변자",
+      "content": "ㅍ북두증장갑투195 5북두야차210신천주145",
+      "displayTime": "1시간 전",
+      "sourceRank": 79,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4c26f1345761263095e8f2b5",
+      "nickname": "마라엽떡",
+      "content": "250 광탄치유사 1마리 7억 ㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 81,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2866b6b55e775939c2a58705",
+      "nickname": "1일@",
+      "content": "신수부 청룡 1개로 풍백셋 1개 삽니다",
+      "displayTime": "1시간 전",
+      "sourceRank": 82,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "cc4327531af0107920f0e386",
+      "nickname": "희별",
+      "content": "철괴리 주작부 삽니다",
+      "displayTime": "1시간 전",
+      "sourceRank": 83,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "21e54f6eed8c1a7c8925f49a",
+      "nickname": "파황신군",
+      "content": "250렙 도끼거한사요, 고천비,흑방 사요",
+      "displayTime": "1시간 전",
+      "sourceRank": 84,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f854195e144980d3233ab441",
+      "nickname": "말랑곰.",
+      "content": "삼]탐기 30, 천라반쌍 19 ㅅㅅㅅㅅ저잣 8시",
+      "displayTime": "1시간 전",
+      "sourceRank": 86,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c570a1b0ada0871529e6135f",
+      "nickname": "요코하마검",
+      "content": "삼]고천검74 귀서셋12",
+      "displayTime": "1시간 전",
+      "sourceRank": 87,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e5dacc4fa8d48c71136647cb",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 /풍백셋11/ 숴부오3.1 팜!",
+      "displayTime": "1시간 전",
+      "sourceRank": 88,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "70e8d30f5bae9961b3a218cf",
+      "nickname": "강철의",
+      "content": "대귀3 규보2 흑방24 삼!",
+      "displayTime": "1시간 전",
+      "sourceRank": 89,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "600645dfb607d2c7bb8a477c",
+      "nickname": "걸어보자",
+      "content": "삼] 고도송 ㅅㅅㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 90,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "57a52fe8275fa2d330876c4c",
+      "nickname": "고독한세계",
+      "content": "ㅅ바람의결정체 개당140 340개 ㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 91,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7c6b78099309d04b43c6cd6c",
+      "nickname": "kisec",
+      "content": "사오관 임금3만원 작업량 빼주세요",
+      "displayTime": "1시간 전",
+      "sourceRank": 92,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0208e59fef3d616f20e20497",
+      "nickname": "말랑곰.",
+      "content": "탐기 30 / 화사신 63 ㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 94,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2b9156359cf7dce2a8da8a7f",
+      "nickname": "람르",
+      "content": "팜] 증장부 22 / 2장",
+      "displayTime": "1시간 전",
+      "sourceRank": 95,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c9b40c739b719861f564109a",
+      "nickname": "아라칭",
+      "content": "ㅍㅍ]화염셋10 / 천추변지국14 ㅍㅍㅍ",
+      "displayTime": "1시간 전",
+      "sourceRank": 97,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "804c4047c3bef5c02c4eea91",
+      "nickname": "골드진",
+      "content": "팜 깨어난 부메랑 2 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
+      "displayTime": "1시간 전",
+      "sourceRank": 98,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "13d2f03a3b49c38359f6503c",
+      "nickname": "최쿤",
+      "content": "팜) 수영복 2세트 7.2",
+      "displayTime": "1시간 전",
+      "sourceRank": 101,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f4984e1c577255f1a81688b7",
+      "nickname": "임송이",
+      "content": "지식한세트 33 ㅍㅍ",
+      "displayTime": "1시간 전",
+      "sourceRank": 102,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9c37d9b98963e9fe27d5e3ee",
+      "nickname": "뽀라핑",
+      "content": "삼]250불도 15",
+      "displayTime": "1시간 전",
+      "sourceRank": 103,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "759acce702da2aced7ae1769",
+      "nickname": "콩드로",
+      "content": "5북두풀대위덕반쌍 430 ㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 104,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "97ac7a84531715a9e6d316b2",
+      "nickname": "뽀라핑",
+      "content": "불도마뱀250 14.5삽니다",
+      "displayTime": "1시간 전",
+      "sourceRank": 105,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "afaef1d051f431496195d2b3",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 팜 고천검 73삼",
+      "displayTime": "3시간 전",
+      "sourceRank": 194,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bd35be5936ca90537ee6ec12",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 /풍백셋11 /숴부오3.1 팜!",
+      "displayTime": "2시간 전",
+      "sourceRank": 133,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "be869ecb37a3445e3baf4c08",
+      "nickname": "아라칭",
+      "content": "ㅍ]천추변지국 15 / 화염셋 10 ㅍㅍㅍ",
+      "displayTime": "1시간 전",
+      "sourceRank": 109,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a7cac408f1b39ef23dbf83fe",
+      "nickname": "환수사",
+      "content": "풀백인도용병 4.7 ㅍ(바지,레지나,악바르)",
+      "displayTime": "2시간 전",
+      "sourceRank": 163,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7e02c3c6862c3a859d28715f",
+      "nickname": "냥코냥냥",
+      "content": "하얼빈 무기장 15억 팝니다",
+      "displayTime": "1시간 전",
+      "sourceRank": 111,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6525a39df68d828e6e7e0493",
+      "nickname": "로스크",
+      "content": "삼] 캐시 2.25 5만원 ㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 127,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a293f179fba3a178b2cbaaef",
+      "nickname": "달거북",
+      "content": "철괴리 18.3 팝니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 191,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e01226cea3199e8e2d5d0b29",
+      "nickname": "꼬라",
+      "content": "힘근,각성석 삽니다.",
+      "displayTime": "1시간 전",
+      "sourceRank": 114,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "af2c3e2614f3f58a78346096",
+      "nickname": "노롤",
+      "content": "종리권 34에 팝니다!",
+      "displayTime": "1시간 전",
+      "sourceRank": 116,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "56f7b6edb1225abf59da7a3a",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 /풍백셋11 /숴부오3 팜!",
+      "displayTime": "1시간 전",
+      "sourceRank": 117,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "3954da36055c2361fdec803f",
+      "nickname": "ycwon",
+      "content": "상류봉 14 삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 153,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "76fbc94d81d144375565f0c0",
+      "nickname": "무자본하쿠",
+      "content": "삼] 광목천왕가면, 광목뚝",
+      "displayTime": "1시간 전",
+      "sourceRank": 119,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1b1a8e813e62c10c58ce757a",
+      "nickname": "전미도",
+      "content": "각성명왕갑 ㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 120,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "59ec4459984362d296b846be",
+      "nickname": "맥켈란1926",
+      "content": "삼] 천라관2.4, 변천라 0.3 ㅅㅅㅅㅅㅅ",
+      "displayTime": "1시간 전",
+      "sourceRank": 121,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "77a49a603afa2e1957b7e9bb",
+      "nickname": "적야린",
+      "content": "삼) 청혼상류봉 14, 천선변다문 13에 삽니",
+      "displayTime": "1시간 전",
+      "sourceRank": 122,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f4ec52586cf45884eec28716",
+      "nickname": "마라엽떡",
+      "content": "250 광탄치유사 삽니다!! 6.5억",
+      "displayTime": "1시간 전",
+      "sourceRank": 124,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4200ed044e4d8b576fae59d2",
+      "nickname": "앰브리스",
+      "content": "증장부 20에 삽니다 ㅠㅠㅠㅠ",
+      "displayTime": "2시간 전",
+      "sourceRank": 126,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e0a42cb339781f7585cd349b",
+      "nickname": "SUZY.",
+      "content": "각천비 삽니다 ㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 128,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "db3526fefdc3c61018499554",
+      "nickname": "앰브리스",
+      "content": "증장천왕부 삽니다.",
+      "displayTime": "2시간 전",
+      "sourceRank": 129,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "129515723f6668571a85dea4",
+      "nickname": "하노방자",
+      "content": "[뭘해야하노]삼)고명궁74에 ㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 130,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4efe13066b83fcee97c9958b",
+      "nickname": "강철의",
+      "content": "캐시1:2.3 10장 한방에 팝니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 131,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7f4f36a0ca5c4f24358b52ed",
+      "nickname": "강철의",
+      "content": "대귀2.9 규보2 삼!",
+      "displayTime": "3시간 전",
+      "sourceRank": 190,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "11506ff47b32e9fdfb5bc3b7",
+      "nickname": "강철의",
+      "content": "캐시 1:1.3 10장 한방에 팝니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 134,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bd93bdb13c51f4ed74257b2e",
+      "nickname": "진소백",
+      "content": "[팜]속4각천검 검+@ ㅍㅍㅍ올지전가능",
+      "displayTime": "2시간 전",
+      "sourceRank": 135,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f5f560ec66c850c8101fb499",
+      "nickname": "말랑곰.",
+      "content": "타락죽 2.2에 2만개 삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 137,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6fc04908badae0abb2b04d4c",
+      "nickname": "전미도",
+      "content": "각성석1.17 수룡67 고명갑 59 ㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 138,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c8978b3b6d59abbe8348c608",
+      "nickname": "멱살구이",
+      "content": "팜] 군다리투구 65 / 끈천극 125",
+      "displayTime": "2시간 전",
+      "sourceRank": 139,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ecc0cf60faabfb8348d4497d",
+      "nickname": "더퀸.",
+      "content": "지국부 변천라 1세트삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 141,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0f049b50629c87d406496d3b",
+      "nickname": "중하하하하",
+      "content": "삼)대위덕부 24 삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 142,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "901bb7038cd7aadb32f59da9",
+      "nickname": "춘식2",
+      "content": "5북두군다리반쌍 팝니다~!",
+      "displayTime": "2시간 전",
+      "sourceRank": 143,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0b2df7d1bc0c1ccbc15f9f13",
+      "nickname": "욕망2",
+      "content": "무신 주몽 2개사민다",
+      "displayTime": "2시간 전",
+      "sourceRank": 144,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a3503b71c7d278384745bcce",
+      "nickname": "거사앙야호",
+      "content": "[팜]백호의석상 6.9,족제비증서 2.9ㅍㅍㅍ",
+      "displayTime": "2시간 전",
+      "sourceRank": 145,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1921d135329d897fa988b7e6",
+      "nickname": "종마이",
+      "content": "각증장부 37 군다리부 25 ㅍ",
+      "displayTime": "2시간 전",
+      "sourceRank": 146,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "280b11dda4e0713bbe1f9b75",
+      "nickname": "무케-",
+      "content": "어주 700 대소량 ㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 147,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ca86ad721e05a4a30f3068d3",
+      "nickname": "III스나III",
+      "content": "불사조의깃텃 분해 해드립니다 ~",
+      "displayTime": "2시간 전",
+      "sourceRank": 148,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ca8b6f1fdc17912dceedcaa0",
+      "nickname": "짯",
+      "content": "삼 동방100셋 팜반고셋 뇌격셋",
+      "displayTime": "2시간 전",
+      "sourceRank": 149,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e06054962aa4e79dab2ac4ac",
+      "nickname": "SUZY.",
+      "content": "각천비 삽니다 ㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 151,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b49ca89ab0536828a086e7e2",
+      "nickname": "몬세반자사",
+      "content": "삼] 고천검 주작부 청룡부 호선 팜] 대귀",
+      "displayTime": "2시간 전",
+      "sourceRank": 152,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "aadd5496b1eb9d269deceff8",
+      "nickname": "국룰",
+      "content": "지국예복 70 ㅍㅍㅍㅍㅍ",
+      "displayTime": "2시간 전",
+      "sourceRank": 155,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "5a664a16b89d8b8cc6a30c7d",
+      "nickname": "하노반자",
+      "content": "[뭘해야하노]삼)고명궁73에삽니다 ㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 156,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "149551ae4c1997a950e8b8c6",
+      "nickname": "강철의",
+      "content": "대귀2.9 / 규보2 삼!",
+      "displayTime": "2시간 전",
+      "sourceRank": 158,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9b32874a063c4dbb3b7022ef",
+      "nickname": "강철의",
+      "content": "홍염봉14.5/ 풍백셋11 /숴부오3.1 팜!",
+      "displayTime": "2시간 전",
+      "sourceRank": 159,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "2b060695c5aade840c89e981",
+      "nickname": "강철의",
+      "content": "캐시 1:2.3 10장 한방에 팔아요",
+      "displayTime": "2시간 전",
+      "sourceRank": 160,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d115fc2249c81dd544fbcd76",
+      "nickname": "강새",
+      "content": "200기마궁수 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 161,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "00dc479809b7673bb50616f1",
+      "nickname": "오른",
+      "content": "팜]월 무신주몽.화목 주몽의활 흑침꿀벌",
+      "displayTime": "5시간 전",
+      "sourceRank": 263,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "99decd6d08ee721ff74cbdd0",
+      "nickname": "전미도",
+      "content": "각명갑 삽니다 ㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 165,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "11165de957e7b1a1ac60bf34",
+      "nickname": "왼쪽궁디",
+      "content": "팜)증장부22, 호리병셋 16",
+      "displayTime": "2시간 전",
+      "sourceRank": 168,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "3a0736717bbbce2a05907d78",
+      "nickname": "파황신군",
+      "content": "흑련의 방울 사요, 고천비 사요",
+      "displayTime": "2시간 전",
+      "sourceRank": 170,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d60b735600fb8cd0e400d5c4",
+      "nickname": "아품",
+      "content": "봉돌 1.13 16개ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 171,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7b2ea4f15ae0bca377e7cc25",
+      "nickname": "군심",
+      "content": "항삼갑 팝니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 172,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "eecca902ffbc016fa48519da",
+      "nickname": "태구왼팔",
+      "content": "증장부 21.5 구해봅니다~",
+      "displayTime": "2시간 전",
+      "sourceRank": 173,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "231e8817cb3ac43c0dc9d430",
+      "nickname": "퍼플웨일",
+      "content": "삼) 구망도 17.5 삽니다 ㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 174,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1f84d56097c4ae6816235361",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 / 풍백셋 11 팜!",
+      "displayTime": "3시간 전",
+      "sourceRank": 192,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1a873b1b7b33316152fbed07",
+      "nickname": "뭘해야하노",
+      "content": "삼)고명궁 73에 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "2시간 전",
+      "sourceRank": 176,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0db32b7f43ef27bb557c0a68",
+      "nickname": "왼쪽궁디",
+      "content": "팜)종리권32.5,수룡68,풍룡62,화룡70",
+      "displayTime": "2시간 전",
+      "sourceRank": 177,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c6d3ed0e01dfbfcec255fe68",
+      "nickname": "멱살구이",
+      "content": "삼]청혼상류봉14 / 팜]군다리뚝 65",
+      "displayTime": "4시간 전",
+      "sourceRank": 251,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1c4752470abf55965bdcd758",
+      "nickname": "미나리프레",
+      "content": "삼) 힘의근원 개당 1.56에 4개까지 삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 180,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a7081a3240e70c6327b5fa6a",
+      "nickname": "으옹반자사",
+      "content": "두이반지 11억 팔아요",
+      "displayTime": "2시간 전",
+      "sourceRank": 181,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "7916ae8fd683b7e87be352bc",
+      "nickname": "시트",
+      "content": "종리권 31.5 삽니다.",
+      "displayTime": "2시간 전",
+      "sourceRank": 182,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "bab95304529fdb15bc2ee491",
+      "nickname": "ycwon",
+      "content": "청혼살류봉 14 삽니다",
+      "displayTime": "2시간 전",
+      "sourceRank": 183,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "fcfec4224bc8a7f8b32bc1d9",
+      "nickname": "이청단",
+      "content": "캐시템 30장 팔아요",
+      "displayTime": "2시간 전",
+      "sourceRank": 185,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6a3f5b92773920016291e0cd",
+      "nickname": "왼쪽궁디",
+      "content": "삼)캐시 1:2.25 10만 한번에 삽니당",
+      "displayTime": "2시간 전",
+      "sourceRank": 186,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9310081893450e6338c7fa54",
+      "nickname": "Sexy-Back",
+      "content": "타락 1.1 만개단위 팜.",
+      "displayTime": "2시간 전",
+      "sourceRank": 187,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e467ba20dbf5cdd25671d005",
+      "nickname": "나양파",
+      "content": "250 백웅삽니다ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 188,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "8daa2c9d15d59e33e9c453b5",
+      "nickname": "마라엽떡",
+      "content": "광탄 1마리 구해봅니다!! 6.5",
+      "displayTime": "3시간 전",
+      "sourceRank": 189,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "5a7f1a0d2f39f7091538b510",
+      "nickname": "강철의",
+      "content": "캐시 1:2.3 10장 한방에 팔아유",
+      "displayTime": "3시간 전",
+      "sourceRank": 193,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "aef3f045b3fe11230971b0a1",
+      "nickname": "오헿헿!",
+      "content": "탐기 30 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 195,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "986a56a141fdd41a1968f086",
+      "nickname": "으오옹",
+      "content": "고천주 사요",
+      "displayTime": "3시간 전",
+      "sourceRank": 196,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9fa44564bff23199da84e4e2",
+      "nickname": "$$$거상$$$",
+      "content": "250광탄치유사 5.5 삽니다 ㄱㄱㄱㄱㄱ",
+      "displayTime": "3시간 전",
+      "sourceRank": 197,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "28fe5755ce2b34c568677d26",
+      "nickname": "타격방패",
+      "content": "풀백180 장창무사로 풀백모험가 구합니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 198,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c6a8d144ba21eb5ccd178622",
+      "nickname": "뢰용",
+      "content": "토벌 버티기 라스트 한분 0.6에모십니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 199,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e9260d3e5528c1668085f89f",
+      "nickname": "주니쿵",
+      "content": "광태반55주작반쌍7현무반쌍7백호반쌍4.5 삼",
+      "displayTime": "3시간 전",
+      "sourceRank": 202,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "fb497340fe7eacaf7bb8d920",
+      "nickname": "뢰용",
+      "content": "토벌 지정몹 버티기 0.6에 라스트한분 모집",
+      "displayTime": "3시간 전",
+      "sourceRank": 203,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e4642130c6abbca4228f54f9",
+      "nickname": "뢰용",
+      "content": "토벌 지정몹 버티기 0.6 4/5 마지막한분",
+      "displayTime": "3시간 전",
+      "sourceRank": 204,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "f6c852b3dab7b2968c037e58",
+      "nickname": "뢰용",
+      "content": "토벌 지정몹버티기 0.6에 모십니다 2/5",
+      "displayTime": "3시간 전",
+      "sourceRank": 205,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ab84eb4109a678292765cc6e",
+      "nickname": "볼빨간맵닭",
+      "content": "붉은색알 황금색알 4.6에 삽니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 206,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b1cd7f4c4dfc57542f18cceb",
+      "nickname": "강철의",
+      "content": "대귀2.9 규보2 한개씩 사욤",
+      "displayTime": "3시간 전",
+      "sourceRank": 207,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c7e41cdbc983058cbafa61f2",
+      "nickname": "뢰용",
+      "content": "토벌 지정몹 버티기 0.6에 모십니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 208,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "77ff30c7d6d2bacc1e1ac0c0",
+      "nickname": "아품",
+      "content": "봉돌 1.13 16개 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 209,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4a77497d112ee9ae75386400",
+      "nickname": "희별",
+      "content": "[삼] 철괴리, 주작부",
+      "displayTime": "3시간 전",
+      "sourceRank": 210,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "96fdd3d1b909ff6856c54fd5",
+      "nickname": "자등명3",
+      "content": "삼]청룡부10.5 철괴리18 증장부21",
+      "displayTime": "3시간 전",
+      "sourceRank": 211,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6009d81377c0e4851bd8081e",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 팜 지국부21 고천검 73삼",
+      "displayTime": "3시간 전",
+      "sourceRank": 212,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "65db4f2b7daa1847596feb2d",
+      "nickname": "대뚱투잡",
+      "content": "팜] 천라셋 7",
+      "displayTime": "4시간 전",
+      "sourceRank": 252,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "6c02db0284491641ac08cc8f",
+      "nickname": "巨商철호",
+      "content": "각천궁 250 증장부 22 팜 고천검 73삼",
+      "displayTime": "3시간 전",
+      "sourceRank": 214,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "842d1e6e2938ab8b9b9f4f31",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 / 풍백셋11 / 숴부오3.1 팜",
+      "displayTime": "3시간 전",
+      "sourceRank": 215,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "da0eae64504566e83a50a9dc",
+      "nickname": "백시연",
+      "content": "삼]신수셋 28 ㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 216,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "06f158b54410455ef71f5a5c",
+      "nickname": "진소백",
+      "content": "[팜]속4각천검 검+30/지전으로o귓전서구",
+      "displayTime": "3시간 전",
+      "sourceRank": 217,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "496d53c58d3f6409daa71fca",
+      "nickname": "강철의",
+      "content": "캐시1:2.3 10장 한방에 팔아요~!",
+      "displayTime": "3시간 전",
+      "sourceRank": 219,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "acf5f7de38f776bcba13a8a3",
+      "nickname": "자등명3",
+      "content": "팜]신비월장석11 삼]청룡부10.5 증장부21",
+      "displayTime": "3시간 전",
+      "sourceRank": 220,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "da4a594f8e7e71034a5c6111",
+      "nickname": "강철의",
+      "content": "홍염봉14.5 / 풍백셋11 팔아유~~",
+      "displayTime": "3시간 전",
+      "sourceRank": 221,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "22b3951b2174355e1e7623a6",
+      "nickname": "자등명",
+      "content": "고명월 108 ㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 222,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "34ab9477afd69de101e5f039",
+      "nickname": "귀공자b",
+      "content": "청혼상류봉 14 ㅅㅅㅅ 귓주세요~",
+      "displayTime": "3시간 전",
+      "sourceRank": 223,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "42bfa081e28a86af044d07ae",
+      "nickname": "강철의",
+      "content": "홍염강세봉14.5/ 풍백셋11/ 일대종사1.3팜",
+      "displayTime": "3시간 전",
+      "sourceRank": 224,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e669a3825fbe435dd4c2164d",
+      "nickname": "달나라곰",
+      "content": "[팜] 각성석 1.2 / 손병 5.2",
+      "displayTime": "3시간 전",
+      "sourceRank": 225,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d1fa0478044aa34f350f7e81",
+      "nickname": "Ks_true",
+      "content": "크2각천극 210 팝니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 226,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "55075f188c0c8dea2d8973e5",
+      "nickname": "오헿헿!",
+      "content": "탐기 30 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "3시간 전",
+      "sourceRank": 228,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "be0bc342422586fcc694e7c7",
+      "nickname": "카드값누적",
+      "content": "[낙원] 상단원 모집중 문의 : 카드값누적",
+      "displayTime": "4시간 전",
+      "sourceRank": 260,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1b5812de388404b8c89c1bb5",
+      "nickname": "혀누핑",
+      "content": "레지나 관련 풀백 최하위 용병 삽니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 230,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "820c15c9c7eefa0cb4272a69",
+      "nickname": "국진이빵",
+      "content": "주작부 2개 삽니다 개당 10.5~ 삽니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 231,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "dc3523c71ab90677f4023d2f",
+      "nickname": "나카무라김",
+      "content": "고급 기린의 뿔 팝니다~",
+      "displayTime": "3시간 전",
+      "sourceRank": 233,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a9c9c71898ce9988c4f5336f",
+      "nickname": "렉돌냥이",
+      "content": "백종 5장 5.9에 삽니다.",
+      "displayTime": "3시간 전",
+      "sourceRank": 235,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "e8c15178912b9e7219a65d27",
+      "nickname": "혀누핑",
+      "content": "레지나 풀백 용병 삽니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 236,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "db0510a1ab028733b09bcc25",
+      "nickname": "Ks_true",
+      "content": "크2각천극 215 팝니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 237,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "341c71fb8cb4a9618512a236",
+      "nickname": "巨商철호",
+      "content": "어주 210개 개당800 각천궁250 팜",
+      "displayTime": "3시간 전",
+      "sourceRank": 238,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0cbc67708b379c65d28b9fad",
+      "nickname": "띠브레",
+      "content": "수호부오 3.0 팝니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 239,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "ffb39f2d9c13956d2123601d",
+      "nickname": "오02",
+      "content": "어린백웅 22 삽니다",
+      "displayTime": "3시간 전",
+      "sourceRank": 240,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "1f7709debc07feae32c76479",
+      "nickname": "LG,",
+      "content": "천라가락지2쌍삽니다 ~~",
+      "displayTime": "4시간 전",
+      "sourceRank": 241,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b76aa5dec6c89e21fd01ebdb",
+      "nickname": "다재다능수",
+      "content": "고천왕비 64에 사요",
+      "displayTime": "4시간 전",
+      "sourceRank": 242,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "c89f62457697b7cc1291c8dd",
+      "nickname": "춘식2",
+      "content": "5북두 군다리반쌍 팝니다~! 광탄치유삽니다",
+      "displayTime": "4시간 전",
+      "sourceRank": 243,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "4d6afbf691c185c591fcc88b",
+      "nickname": "강새",
+      "content": "200기마궁수 삽니다 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "4시간 전",
+      "sourceRank": 244,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "a7cb894229edcfa095f2f69b",
+      "nickname": "오02",
+      "content": "아 오늘 장 맛있다 백웅 22 삽니다",
+      "displayTime": "4시간 전",
+      "sourceRank": 245,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "b63a042be4ad50be3cc46b54",
+      "nickname": "모모TV",
+      "content": "삼]청룡부, 봉인의서 봉서 삽니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 266,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "668b0919db2c852cbb50fca2",
+      "nickname": "침대위극딜",
+      "content": "삼)) 탐기 뇌구 ㅅㅅ 팜))3북두풀증장반쌍",
+      "displayTime": "4시간 전",
+      "sourceRank": 249,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "5cf5e744ed05b7be787904c6",
+      "nickname": "춘식2",
+      "content": "5북두 군다리명왕 팝니다 250광탄치유사요",
+      "displayTime": "4시간 전",
+      "sourceRank": 254,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0b3a7197966a0b4c6dd8f7b8",
+      "nickname": "쿡선생",
+      "content": "수영복 세트2셋 삽니다",
+      "displayTime": "4시간 전",
+      "sourceRank": 256,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "805cabe0f1af7765d2375c0f",
+      "nickname": "1일@",
+      "content": "신수부청룡/주작+6500만으로백호부삽니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 264,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "35abe189973209dab4b1c392",
+      "nickname": "고독한세계",
+      "content": "팜] 5북두옥형군다리390 , 북두변대위덕105",
+      "displayTime": "4시간 전",
+      "sourceRank": 258,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "0090ee2d3307bbeb8c8b1bf9",
+      "nickname": "롤유저임돠",
+      "content": "장과로 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
+      "displayTime": "4시간 전",
+      "sourceRank": 259,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "9def1251bbcfb04ff2ad7532",
+      "nickname": "니앞의벽2",
+      "content": "고천검 73에 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
+      "displayTime": "4시간 전",
+      "sourceRank": 261,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d7acfbc8fdc18c41a2fe11d7",
+      "nickname": "1일@",
+      "content": "신수부청룡/주작+7000만으로백호부삽니다",
+      "displayTime": "5시간 전",
+      "sourceRank": 262,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
+    {
+      "id": "d082cf8ddf6b5e38b315a8ae",
+      "nickname": "wargame",
+      "content": "팜]항아,5북두옥형야차,고명검,각다문부,탐",
+      "displayTime": "5시간 전",
+      "sourceRank": 265,
+      "firstSeenAt": "2026-08-10T05:12:02.151Z",
+      "lastSeenAt": "2026-08-10T05:12:02.151Z"
+    },
     {
       "id": "5f1f9adbfbc6af5ce352d652",
       "nickname": "치즈_",
@@ -50,15 +2318,6 @@
       "displayTime": "9시간 전",
       "sourceRank": 178,
       "firstSeenAt": "2026-08-08T17:50:44.964Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "dbe120c781d2da2844f025df",
-      "nickname": "파마다",
-      "content": "팜]각성석1.2/권능2.5/봉돌봉서1.15대량ㅍ",
-      "displayTime": "9시간 전",
-      "sourceRank": 274,
-      "firstSeenAt": "2026-08-06T12:21:36.765Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
     {
@@ -202,15 +2461,6 @@
       "content": "무신주몽/미장/람채화인형팝니다",
       "displayTime": "9시간 전",
       "sourceRank": 245,
-      "firstSeenAt": "2026-08-09T14:07:15.597Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "b0b60b741374461d933ee3ed",
-      "nickname": "무케-",
-      "content": "어주 개당700 대소량 ㅅㅅ",
-      "displayTime": "9시간 전",
-      "sourceRank": 169,
       "firstSeenAt": "2026-08-09T14:07:15.597Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
@@ -791,15 +3041,6 @@
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
     {
-      "id": "f2983d0409c844ca976ca04c",
-      "nickname": "기병",
-      "content": "삼]각지국부35 부동부107 고명월108 천라7",
-      "displayTime": "9시간 전",
-      "sourceRank": 214,
-      "firstSeenAt": "2026-08-09T15:53:38.278Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
       "id": "42b510b1b7f2477f8b2589ab",
       "nickname": "철괴리헌터",
       "content": "용맹증표 육전좀올려주세여",
@@ -994,15 +3235,6 @@
       "content": "대위덕부 대위덕명왕부 24.5 팝니다",
       "displayTime": "9시간 전",
       "sourceRank": 174,
-      "firstSeenAt": "2026-08-09T15:53:38.278Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "086d790d593ac1fd9b9d5762",
-      "nickname": "로랑블랑",
-      "content": "5북두증장반쌍ㅍㅍ +@ 5북두군다리반쌍ㅅㅅ",
-      "displayTime": "9시간 전",
-      "sourceRank": 176,
       "firstSeenAt": "2026-08-09T15:53:38.278Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
@@ -1210,15 +3442,6 @@
       "content": "시나리오에서 획득한템도 이벤 쳐주나요?",
       "displayTime": "9시간 전",
       "sourceRank": 205,
-      "firstSeenAt": "2026-08-09T15:53:38.278Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "e9c9a256d25b38169f4650fb",
-      "nickname": "종마이",
-      "content": "공5 각천궁 ㅍㅍ 궁+40 or 290",
-      "displayTime": "9시간 전",
-      "sourceRank": 207,
       "firstSeenAt": "2026-08-09T15:53:38.278Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
@@ -2177,15 +4400,6 @@
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
     {
-      "id": "ac3dd2c392803238c6f0f156",
-      "nickname": "용천공",
-      "content": "광태반짝 27.5 팜 // 태반 12.5 삼",
-      "displayTime": "5시간 전",
-      "sourceRank": 46,
-      "firstSeenAt": "2026-08-09T19:22:09.891Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
       "id": "9cc66b4fc5da500b8364ae08",
       "nickname": "i멘토",
       "content": "흑련의 방울 삼니다 사요/~~",
@@ -2231,47 +4445,11 @@
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
     {
-      "id": "43be1f43d1d78898e5d3f346",
-      "nickname": "띠브레",
-      "content": "수호부 오 3.0 구매합니다",
-      "displayTime": "3시간 전",
-      "sourceRank": 32,
-      "firstSeenAt": "2026-08-09T21:05:54.106Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "fa04bd555d0b7a9b62adc802",
-      "nickname": "웡기옥",
-      "content": "혼돌의돌 개당 2400에 100개 삽니다",
-      "displayTime": "3시간 전",
-      "sourceRank": 33,
-      "firstSeenAt": "2026-08-09T21:05:54.106Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "b32a41a9e8d659b085efe163",
-      "nickname": "신여포",
-      "content": "손자병법 4.7 삽니다",
-      "displayTime": "3시간 전",
-      "sourceRank": 34,
-      "firstSeenAt": "2026-08-09T21:05:54.106Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
       "id": "d250f06c3a258a4a06d96497",
       "nickname": "코베랑",
       "content": "생비 13.8 삽니다 ㅅㅅ",
       "displayTime": "4시간 전",
       "sourceRank": 35,
-      "firstSeenAt": "2026-08-09T21:05:54.106Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "30632d3b52df6e035e0fa8da",
-      "nickname": "1일@",
-      "content": "신수부청룡/주작+6000만으로백호부삽니다",
-      "displayTime": "4시간 전",
-      "sourceRank": 36,
       "firstSeenAt": "2026-08-09T21:05:54.106Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
@@ -2309,258 +4487,6 @@
       "displayTime": "4시간 전",
       "sourceRank": 40,
       "firstSeenAt": "2026-08-09T21:05:54.106Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "492ef381dcddd12627703734",
-      "nickname": "중하하하하",
-      "content": "삼) 대위덕부 24 삽니다",
-      "displayTime": "2시간 전",
-      "sourceRank": 31,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "8843627609bb7b3a0a8beae8",
-      "nickname": "석원희",
-      "content": "북두풀지국반쌍+@ 북두풀항삼반쌍사요",
-      "displayTime": "1시간 전",
-      "sourceRank": 28,
-      "firstSeenAt": "2026-08-09T22:15:22.731Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "6f9abfdb095d6e1297d30d1e",
-      "nickname": "오늘하루에",
-      "content": "백웅삽니다. ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "2시간 전",
-      "sourceRank": 29,
-      "firstSeenAt": "2026-08-09T22:15:22.731Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "83754cf1ec78bb2863fb3e11",
-      "nickname": "상문신장",
-      "content": "삼)진각명왕장 명왕장+110 삼니다",
-      "displayTime": "33분 전",
-      "sourceRank": 13,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "9de8d9823b8e8e112b4e37b1",
-      "nickname": "깍둑썰기",
-      "content": "삼] 반고셋2개 팜]3천추풀항삼65",
-      "displayTime": "3분 전",
-      "sourceRank": 2,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "51b1ab0ab2b1008022c29c1c",
-      "nickname": "와키자카",
-      "content": "어주 552개 판매합니다",
-      "displayTime": "6분 전",
-      "sourceRank": 3,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "24728e62f71220fb2eeb5cf0",
-      "nickname": "용천공",
-      "content": "광태반짝 27.5 쌍55 팜 / 태반 12.5 삼",
-      "displayTime": "7분 전",
-      "sourceRank": 4,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "075329999caf371f73b02cfd",
-      "nickname": "멱살구이",
-      "content": "삼]청혼상류봉 14 / 팜] 군다리뚝 65",
-      "displayTime": "16분 전",
-      "sourceRank": 5,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "9eaa8e8f6e8cc3f040cf501a",
-      "nickname": "춘식2",
-      "content": "팜)바반쌍 8억 삼) 250광탄치유 6억",
-      "displayTime": "17분 전",
-      "sourceRank": 6,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "b5c9478caa09e5180ceca710",
-      "nickname": "오늘하루에",
-      "content": "백웅 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "22분 전",
-      "sourceRank": 7,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "1db37494cf6a59192ad39cad",
-      "nickname": "도란또란",
-      "content": "토벌 지정 버티기 배려 0.7 모집중",
-      "displayTime": "26분 전",
-      "sourceRank": 9,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "08e8ea8b609d51908348209e",
-      "nickname": "배틀",
-      "content": "백호부 11, 풀천라 7에 1셋 삽니다 ㅅㅅㅅ",
-      "displayTime": "28분 전",
-      "sourceRank": 10,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "517fcaf825d43b045f0986df",
-      "nickname": "순간이동용",
-      "content": "광탄치유사 5.5 구매합니다 사요",
-      "displayTime": "29분 전",
-      "sourceRank": 11,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "b9994fb31c073c2aefc333fd",
-      "nickname": "센서",
-      "content": "캐시 2.3:1 10만원 구매합니다",
-      "displayTime": "31분 전",
-      "sourceRank": 12,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "4b949dcd7cc3998f9c5c099d",
-      "nickname": "강철의",
-      "content": "홍염강세봉14.5 / 풍백셋11 팜!",
-      "displayTime": "35분 전",
-      "sourceRank": 14,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "e1791852c37cec703abf1804",
-      "nickname": "춘식2",
-      "content": "바반쌍 8에 팝니다~!",
-      "displayTime": "35분 전",
-      "sourceRank": 15,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "0194fbdc1c98da74a20fffe0",
-      "nickname": "대치(風)",
-      "content": "광목 잠식분들 특성 5105 쓰시는분?",
-      "displayTime": "42분 전",
-      "sourceRank": 16,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "ae8e44d2c1950f4573fd2f6a",
-      "nickname": "첼시팬",
-      "content": "와레와레가",
-      "displayTime": "43분 전",
-      "sourceRank": 17,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "d90df83ed22a8dfa99441f78",
-      "nickname": "巨商철호",
-      "content": "각천궁 250 팝니다",
-      "displayTime": "53분 전",
-      "sourceRank": 18,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "c258cbdff6362e6e2f1a66f6",
-      "nickname": "卍일",
-      "content": "황금색알삽니다[2.3]",
-      "displayTime": "56분 전",
-      "sourceRank": 19,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "bed3d4ad32b4cb2f5a06390e",
-      "nickname": "대뚱",
-      "content": "팜] 천라셋 7",
-      "displayTime": "1시간 전",
-      "sourceRank": 20,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "0e1c62bf19de7887e9cbd889",
-      "nickname": "멱살구이",
-      "content": "청혼상류봉 14 삼ㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 21,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "257eb97d74458996bed29b29",
-      "nickname": "동지니애비",
-      "content": "가진 1마리만 잡아주세요~~!!!!",
-      "displayTime": "1시간 전",
-      "sourceRank": 22,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "df4229ed7e41fc14f8787265",
-      "nickname": "강철의",
-      "content": "홍염봉14.5 / 풍백셋 11 팔아요",
-      "displayTime": "1시간 전",
-      "sourceRank": 23,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "73816e41f5d8ec4445fff2c5",
-      "nickname": "신여포",
-      "content": "독조 쌍칼잡이 설령 몬스터 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 24,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "801c52a6994b5110d52f1d31",
-      "nickname": "귀닌",
-      "content": "삼] 군다리부 25 ㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 25,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "7f95ec8698f43353ee3771c7",
-      "nickname": "동지니애비",
-      "content": "대칸의혼 1마리만 잡아주실분요~~~",
-      "displayTime": "1시간 전",
-      "sourceRank": 26,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
-      "lastSeenAt": "2026-08-09T23:58:15.665Z"
-    },
-    {
-      "id": "d701cbc16c9991ce90aeffc5",
-      "nickname": "고독한세계",
-      "content": "대위덕투구,항삼뚝,야차뚝,야차신 ㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 27,
-      "firstSeenAt": "2026-08-09T23:58:15.665Z",
       "lastSeenAt": "2026-08-09T23:58:15.665Z"
     },
     {
@@ -3059,15 +4985,6 @@
       "lastSeenAt": "2026-08-09T17:18:42.914Z"
     },
     {
-      "id": "b3efcc4ff5102a82574049a9",
-      "nickname": "무자본하쿠",
-      "content": "삼] 광목뚝",
-      "displayTime": "3시간 전",
-      "sourceRank": 296,
-      "firstSeenAt": "2026-08-09T14:07:15.597Z",
-      "lastSeenAt": "2026-08-09T17:18:42.914Z"
-    },
-    {
       "id": "6d2731d274f133b0535da52f",
       "nickname": "철괴리헌터",
       "content": "팜)고태갑투 3.3 쥬신태투 0.7",
@@ -3479,15 +5396,6 @@
       "displayTime": "55분 전",
       "sourceRank": 219,
       "firstSeenAt": "2026-08-09T10:08:08.598Z",
-      "lastSeenAt": "2026-08-09T14:07:15.597Z"
-    },
-    {
-      "id": "21038611cc38b86baf62bc27",
-      "nickname": "미나리프레",
-      "content": "팜) 축융부 6에 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 299,
-      "firstSeenAt": "2026-08-09T08:26:45.974Z",
       "lastSeenAt": "2026-08-09T14:07:15.597Z"
     },
     {
@@ -4859,15 +6767,6 @@
       "lastSeenAt": "2026-08-09T14:07:15.597Z"
     },
     {
-      "id": "a4ef4ec536f8d43526798cd3",
-      "nickname": "고독한세계",
-      "content": "팜]5북두옥형군달390,북두변대위덕105",
-      "displayTime": "1시간 전",
-      "sourceRank": 252,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T11:50:16.939Z"
-    },
-    {
       "id": "14cb3d0c1755206bf7cef692",
       "nickname": "예린:)",
       "content": "현자의지식 1셋 32 삽니다~",
@@ -4964,15 +6863,6 @@
       "displayTime": "1시간 전",
       "sourceRank": 242,
       "firstSeenAt": "2026-08-08T10:05:17.699Z",
-      "lastSeenAt": "2026-08-09T11:50:16.939Z"
-    },
-    {
-      "id": "6d37aba6858cefb45d43a62c",
-      "nickname": "김재현2야",
-      "content": "2차(원한,원망,절망신)유료도우미 해요 솬o",
-      "displayTime": "1시간 전",
-      "sourceRank": 253,
-      "firstSeenAt": "2026-08-09T06:32:09.470Z",
       "lastSeenAt": "2026-08-09T11:50:16.939Z"
     },
     {
@@ -7073,24 +8963,6 @@
       "lastSeenAt": "2026-08-09T10:08:08.598Z"
     },
     {
-      "id": "20374e2d76fcc51479171d34",
-      "nickname": "장집",
-      "content": "[팜] 5북두개양,요광각광목/풍사신셋",
-      "displayTime": "2시간 전",
-      "sourceRank": 266,
-      "firstSeenAt": "2026-08-09T08:26:45.974Z",
-      "lastSeenAt": "2026-08-09T10:08:08.598Z"
-    },
-    {
-      "id": "8731004ff932c6ff9972f739",
-      "nickname": "장집",
-      "content": "[팜] 5북두개양각다문/각광목부",
-      "displayTime": "2시간 전",
-      "sourceRank": 268,
-      "firstSeenAt": "2026-08-09T08:26:45.974Z",
-      "lastSeenAt": "2026-08-09T10:08:08.598Z"
-    },
-    {
       "id": "0393666c139bff9a267f716b",
       "nickname": "최수아아빠",
       "content": "고명검 주작부 ㅍ 흑년방울 고천비 ㅅ",
@@ -7141,15 +9013,6 @@
       "content": "낙수셋/속5각천극/천상100셋/꾸러기셋 ㅍ",
       "displayTime": "2시간 전",
       "sourceRank": 275,
-      "firstSeenAt": "2026-08-09T08:26:45.974Z",
-      "lastSeenAt": "2026-08-09T10:08:08.598Z"
-    },
-    {
-      "id": "1ed1283a20e4f782307a3ec3",
-      "nickname": "장집",
-      "content": "[팜] 천상100셋/북방11강셋/수사신셋",
-      "displayTime": "2시간 전",
-      "sourceRank": 278,
       "firstSeenAt": "2026-08-09T08:26:45.974Z",
       "lastSeenAt": "2026-08-09T10:08:08.598Z"
     },
@@ -10934,15 +12797,6 @@
       "lastSeenAt": "2026-08-09T06:32:09.470Z"
     },
     {
-      "id": "b5e8bf320b87bac21bb5e960",
-      "nickname": "히토바시라",
-      "content": "[블랙맘바]누구나 가능한 매너 상단원 모집",
-      "displayTime": "2시간 전",
-      "sourceRank": 164,
-      "firstSeenAt": "2026-08-08T06:26:47.261Z",
-      "lastSeenAt": "2026-08-09T06:32:09.470Z"
-    },
-    {
       "id": "2208afcaa5b3603a36f5451c",
       "nickname": "대삼",
       "content": "5북두풀지국반쌍+@로 5북두풀항삼반쌍 ㅅㅅ",
@@ -12309,1473 +14163,6 @@
       "sourceRank": 254,
       "firstSeenAt": "2026-08-09T06:32:09.470Z",
       "lastSeenAt": "2026-08-09T06:32:09.470Z"
-    },
-    {
-      "id": "336036465b117986d7582aed",
-      "nickname": "멸.",
-      "content": "삽니다] 동방 100셋 ㅅㅅㅅㅅ",
-      "displayTime": "2시간 전",
-      "sourceRank": 283,
-      "firstSeenAt": "2026-08-08T16:04:21.479Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "868bff179cd95aec1498e78b",
-      "nickname": "자등명3",
-      "content": "팜] 신비 월장석11, 고명월110",
-      "displayTime": "1시간 전",
-      "sourceRank": 255,
-      "firstSeenAt": "2026-08-08T17:50:44.964Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c9ac0f5107d8afd8bae6acb4",
-      "nickname": "불의속도",
-      "content": "선기화1셋or승마3단1셋 ㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 168,
-      "firstSeenAt": "2026-08-08T11:44:03.769Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "541e6fb4a4659cae0e84e7e0",
-      "nickname": "늑대멍멍해",
-      "content": "팜) 각성석 1.2 ㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 258,
-      "firstSeenAt": "2026-08-08T06:26:47.261Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "20d2d76f0f570b29a145a5cf",
-      "nickname": "유수화™",
-      "content": "[삼] 도깨비 9 ㅅㅅ, [팜] 설녀 19 ㅍㅍ",
-      "displayTime": "2시간 전",
-      "sourceRank": 294,
-      "firstSeenAt": "2026-08-08T04:18:23.049Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "26580018f8400991becddb72",
-      "nickname": "으뜸",
-      "content": "원산지●상단원 모집중 뉴비/복귀 환영●",
-      "displayTime": "1시간 전",
-      "sourceRank": 278,
-      "firstSeenAt": "2026-08-08T04:18:23.049Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "64fb0d0cc916893eecc57490",
-      "nickname": "20분 전",
-      "content": "[팜] 허위안 농장. 김태연 [귓]",
-      "displayTime": "21분 전",
-      "sourceRank": 53,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a1d67d192ce32a6d8975cef6",
-      "nickname": "24분 전",
-      "content": "[팜] 허위안 농장. 김태연 [귓]",
-      "displayTime": "24분 전",
-      "sourceRank": 65,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "799e1039b0c6e827e721c37e",
-      "nickname": "고독한세계",
-      "content": "팜]5북두옥형군다리390 , 홈천주73",
-      "displayTime": "40분 전",
-      "sourceRank": 107,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e2e1c1eb3721b7143c5d5f5b",
-      "nickname": "광목꾸",
-      "content": "삼] 캐시 1:2.25 ㅅㅅ",
-      "displayTime": "40분 전",
-      "sourceRank": 108,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "11e68b7825803180d67e5abd",
-      "nickname": "임송이",
-      "content": "업화의항아리.사령장갑 ㅍㅍ",
-      "displayTime": "41분 전",
-      "sourceRank": 109,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "bd6493e67a28e4944492bbcb",
-      "nickname": "딸순2",
-      "content": "팝니다] 장과로인형 14 ㅍㅍㅍㅍ",
-      "displayTime": "42분 전",
-      "sourceRank": 110,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "9706b5931e6436709558e8d0",
-      "nickname": "사슴(火)",
-      "content": "토벌 지정몹 버티기 0.7 가실분 귓(2/4)",
-      "displayTime": "53분 전",
-      "sourceRank": 132,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "96b1feea7fcface25dd4a9eb",
-      "nickname": "대치(風)",
-      "content": "생비 1개 ㅅ",
-      "displayTime": "45분 전",
-      "sourceRank": 113,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "5643493e1e0f1592925130f1",
-      "nickname": "멸문지화",
-      "content": "호리병1셋 15.7 팜 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "46분 전",
-      "sourceRank": 114,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1f79b6a9ca7da57a4dec6830",
-      "nickname": "봉티티",
-      "content": "힘기 450에 130개 삼니닷ㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "46분 전",
-      "sourceRank": 115,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e203bec0822cbda2c374fea6",
-      "nickname": "안줘",
-      "content": "현무부 11 ㅅㅅ",
-      "displayTime": "46분 전",
-      "sourceRank": 116,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "0ba0bce704a4bd1746e94a62",
-      "nickname": "루이비통",
-      "content": "[삼] 궁중타락중 1만개 1.1",
-      "displayTime": "47분 전",
-      "sourceRank": 117,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "488657f9ef5cdcda0435e102",
-      "nickname": "허거덩쓰",
-      "content": "힘의근원 2개 3.2에 삽니다 ㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "47분 전",
-      "sourceRank": 118,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e54831b580e95f05b4f91e64",
-      "nickname": "朱작",
-      "content": "각지국부 사요 ㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "47분 전",
-      "sourceRank": 119,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e06c95a3140a95ea8f92b803",
-      "nickname": "여름날씨",
-      "content": "무신증장 ㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "47분 전",
-      "sourceRank": 120,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "27fe81e281e0a9a1c3b99459",
-      "nickname": "히토바시라",
-      "content": "[팜]수호부 오 3.1",
-      "displayTime": "48분 전",
-      "sourceRank": 121,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "21c04e88ea9ddffb2c034def",
-      "nickname": "상재희",
-      "content": "종리권 팜",
-      "displayTime": "50분 전",
-      "sourceRank": 124,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "de827289dece9cccfd6bd68f",
-      "nickname": "정은채",
-      "content": "각성명왕궁 삼니다 귓 주세요",
-      "displayTime": "59분 전",
-      "sourceRank": 149,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8ca3b0d4bcb4187b37927aef",
-      "nickname": "탑레221점",
-      "content": "동방칠사 청동판 육의전 부탁드립니다",
-      "displayTime": "51분 전",
-      "sourceRank": 126,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "13fe1bc545531190b618d516",
-      "nickname": "자극과반응",
-      "content": "삼]캐시 팜]지5각천비",
-      "displayTime": "1시간 전",
-      "sourceRank": 184,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "7207bf521c6d4a11bb4d948f",
-      "nickname": "루이비통",
-      "content": "[삼] 궁중타락죽 1만개 1.1삼",
-      "displayTime": "51분 전",
-      "sourceRank": 128,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "37655887741db3c611d1828c",
-      "nickname": "환수사",
-      "content": "밥 먹고 합시다",
-      "displayTime": "52분 전",
-      "sourceRank": 129,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4228d37eda5bf9f79eb06072",
-      "nickname": "붉은말",
-      "content": "만렙 어린백웅 삽니다",
-      "displayTime": "52분 전",
-      "sourceRank": 130,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8632adecd12e505257e98e69",
-      "nickname": "절멸습격",
-      "content": "중급 몬스터 꾸러미 3.0 팔아요",
-      "displayTime": "53분 전",
-      "sourceRank": 133,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "fe179b9bbd9c69091ea5a047",
-      "nickname": "멸.",
-      "content": "삽니다] 동방 100셋 ㅅㅅㅅ",
-      "displayTime": "54분 전",
-      "sourceRank": 135,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "17b767e3b356a7547049514b",
-      "nickname": "朱작",
-      "content": "삼)각지국부 사요 ㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "54분 전",
-      "sourceRank": 136,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "5c6ab5f104d29f86ca83cd27",
-      "nickname": "뽀곰",
-      "content": "태반 12, 고급혼돈가시 11 삽니다",
-      "displayTime": "55분 전",
-      "sourceRank": 137,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "ea3ba4f2e7c9500f221e3169",
-      "nickname": "솔롱고스",
-      "content": "시간의가루 개당1160 400개삽니다",
-      "displayTime": "55분 전",
-      "sourceRank": 138,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "9ba5b3d5f31c31379e9abe31",
-      "nickname": "매화필적에",
-      "content": "신수셋 24 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "55분 전",
-      "sourceRank": 139,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "567d151074157d2b1fa02de0",
-      "nickname": "고독한세계",
-      "content": "홈천주 73 ㅍㅍㅍㅍ",
-      "displayTime": "56분 전",
-      "sourceRank": 140,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2e94ec64877aff690aa88893",
-      "nickname": "짯",
-      "content": "동방100셋 삽니다.....",
-      "displayTime": "56분 전",
-      "sourceRank": 141,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "5f549c2660a37b724e783172",
-      "nickname": "사슴(火)",
-      "content": "토벌 지정몹 버티기 0.7 가실분 귓",
-      "displayTime": "1시간 전",
-      "sourceRank": 161,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "963418a87672601a79dbe41b",
-      "nickname": "정윤킴",
-      "content": "지국부 20.5 ㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "56분 전",
-      "sourceRank": 143,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a64369027b7d4a3b2ad5f853",
-      "nickname": "대치(風)",
-      "content": "고천비 ㅍ 증장부 ㅅ",
-      "displayTime": "58분 전",
-      "sourceRank": 144,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "bb5e0eeebbd1caccc68c4c89",
-      "nickname": "이수현덕",
-      "content": "종리권의 인형 삽니다",
-      "displayTime": "58분 전",
-      "sourceRank": 146,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4fde5617d1e90714c5bfbf0a",
-      "nickname": "전.",
-      "content": "철괴리인형 18.5 ㅅㅅ",
-      "displayTime": "59분 전",
-      "sourceRank": 148,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "334e121fca802146a0b7c098",
-      "nickname": "불의속도",
-      "content": "선기화 소량도 삽니다",
-      "displayTime": "59분 전",
-      "sourceRank": 150,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "19b81fb862f498458645dd93",
-      "nickname": "조칭",
-      "content": "사마귀 증서 3.05 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 151,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e2cfac18821f2e773e259681",
-      "nickname": "솔롱고스",
-      "content": "시간의가루 개당1155 400개삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 152,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "ce6fa34a15fe9cf57a778d3a",
-      "nickname": "나는치킨",
-      "content": "수사신62,탐기30,현자항아410 ㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 153,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "fd96e3db2cddf399a25d99b0",
-      "nickname": "알페지엠",
-      "content": "명왕장+105 진각명왕장 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 155,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "466151d420f39421b28de7c6",
-      "nickname": "박수인",
-      "content": "봉인의돌 쪼개드립니다 귓",
-      "displayTime": "1시간 전",
-      "sourceRank": 156,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "3f7853de944e10cce762cfd8",
-      "nickname": "학복위상재",
-      "content": "[팜]속4각천검 속4 각천검 각천검+@에 팝니",
-      "displayTime": "1시간 전",
-      "sourceRank": 157,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "9ec7ebed33235eae9095b791",
-      "nickname": "이슈이",
-      "content": "바람의정령옥 개당 0.65 6개 ㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 158,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d0526980b57d10d39a0b3e33",
-      "nickname": "넌뭐하는년",
-      "content": "명왕월 58 ㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 159,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "b443ba1cfa8dcbe468494992",
-      "nickname": "뽀곰",
-      "content": "태반 12 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 160,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d2b3a1569229c27e571e5709",
-      "nickname": "환수사",
-      "content": "점메츄",
-      "displayTime": "1시간 전",
-      "sourceRank": 162,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "f4745217fcb39af212ebdc3f",
-      "nickname": "멸문지화",
-      "content": "호리병셋 16팜 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 163,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "896ec77d1e24d3d06d4a94f8",
-      "nickname": "짯",
-      "content": "동방100셋 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 164,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1f398a21d55494d9932b6d3c",
-      "nickname": "불의속도",
-      "content": "각명왕장+@ 진각ㅅ 선기화1셋or승마3재료ㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 165,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "be5e1d3673ce7e8a47fd72da",
-      "nickname": "고독한세계",
-      "content": "팜]5북두옥형군다리390 ㅅ대위덕투구",
-      "displayTime": "1시간 전",
-      "sourceRank": 166,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1c8f46e226acd709b36a9ddf",
-      "nickname": "조칭",
-      "content": "사마귀증서 3.2 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 167,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "ab44994e5419192ca2d66f78",
-      "nickname": "장미상점잉",
-      "content": "[【白】장미] 선기풍 1.7 50개 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 169,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "51d9827e61cb508f4d663388",
-      "nickname": "욕망2",
-      "content": "부서진 지팡이 9개 구해요",
-      "displayTime": "1시간 전",
-      "sourceRank": 171,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "76a73c384375260621f20015",
-      "nickname": "빙결의인형",
-      "content": "미트라 장갑 8억 팔아요",
-      "displayTime": "1시간 전",
-      "sourceRank": 172,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "86816cba5212d8c6bfc57a50",
-      "nickname": "채버지",
-      "content": "명왕월 58 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 173,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8ee0c2a00d592da0ceebea2e",
-      "nickname": "금편",
-      "content": "청반짝 1.6팜니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 174,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "15ba64a29936c2ab6fc258b8",
-      "nickname": "솔롱고스",
-      "content": "시간의가루 개당1150 500개삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 175,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c224173e10c917054c88e122",
-      "nickname": "백종혁님",
-      "content": "두반 11 ㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 178,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "92efc32842915f5d710edf44",
-      "nickname": "왼쪽궁디",
-      "content": "삼)증서 귀묘0.4,사마귀3,꼬마선인장7.5",
-      "displayTime": "1시간 전",
-      "sourceRank": 179,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "337549a0bf1d6ae4df5e51cd",
-      "nickname": "졸리덕배",
-      "content": "캐시 1:2.25 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 180,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2dbee2d7619c2382d97c0ecb",
-      "nickname": "*신",
-      "content": "[삼]한빙검",
-      "displayTime": "1시간 전",
-      "sourceRank": 181,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1dace9a44fb6aff17384ed9a",
-      "nickname": "짯",
-      "content": "동방100셋 삽니다~~~~~~~~~~~~~~~~",
-      "displayTime": "1시간 전",
-      "sourceRank": 182,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d096e94adda427becc4a2af1",
-      "nickname": "뽀곰",
-      "content": "태반 12, 두반 11 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 183,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "63abd2ea73958df923855e27",
-      "nickname": "hero배트맨",
-      "content": "천추변지국 16 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 185,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "afddadc779b02f89f82f72ba",
-      "nickname": "콩쥐팟쥐",
-      "content": "경20끈천극 ㅍㅍㅍ 가격 귓 주세요~",
-      "displayTime": "1시간 전",
-      "sourceRank": 186,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "33604ffb98820d8b1c2999ac",
-      "nickname": "족상재",
-      "content": "힘근 1.6 10개 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 187,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "fc658d7ec3f52e669f52b4af",
-      "nickname": "이슈이",
-      "content": "바람의정령옥 30개 ㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 188,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4d549b4585de6bc06bf7ed2a",
-      "nickname": "은선둥이",
-      "content": "팜] 화사신 64 ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 189,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "30a9152c8b5fb270b22517ed",
-      "nickname": "0마녀보살0",
-      "content": "철괴리인형 19에팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 190,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "763d48ecadd7f30aa9275396",
-      "nickname": "겨울낭인",
-      "content": "바반짝 4억에 팝니다.",
-      "displayTime": "1시간 전",
-      "sourceRank": 191,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "3251c06479d1b931e85d544a",
-      "nickname": "폭@죽@바다",
-      "content": "팜 북두다문갑투 180",
-      "displayTime": "1시간 전",
-      "sourceRank": 192,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "57a83cd9e076142b96be7d84",
-      "nickname": "이슈이",
-      "content": "캐쉬 10만 ㅍㅍㅍㅍ 비율 귓 한방판매",
-      "displayTime": "1시간 전",
-      "sourceRank": 195,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1eece8f705e328cc22d6f173",
-      "nickname": "족상재",
-      "content": "힘근 1.6 청룡부 10.5 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 197,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2f9af61557535ae9991e3cec",
-      "nickname": "발리우드",
-      "content": "ㅍ]각광목부 34",
-      "displayTime": "1시간 전",
-      "sourceRank": 198,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "ac47ad0472e1ef8ee49e8342",
-      "nickname": "정착함",
-      "content": "청룡석상 6 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 200,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2c839693df3e9fa65297cb2e",
-      "nickname": "정니",
-      "content": "고대 백룡의인장삽니다 육의전에올려주세요",
-      "displayTime": "1시간 전",
-      "sourceRank": 201,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "9e710309a086e3caf9e842cf",
-      "nickname": "구조역학",
-      "content": "삼] 현자셋 33 귓",
-      "displayTime": "1시간 전",
-      "sourceRank": 202,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a67b3c20b775fbbf7eae3eef",
-      "nickname": "욘석",
-      "content": "팜]고명극 74에 팔아요~",
-      "displayTime": "1시간 전",
-      "sourceRank": 203,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4d1e4a9bc80ac3b0ab73d58d",
-      "nickname": "@_*",
-      "content": "호선의인형 6억 ㅍㅍㅍㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 204,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8cf40a7ace802103b77f3015",
-      "nickname": "장건우",
-      "content": "무신노부9 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 205,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "fb28b28c45c20ad91e0ab732",
-      "nickname": "곧비",
-      "content": "광휘의기린마 팔아요!",
-      "displayTime": "1시간 전",
-      "sourceRank": 206,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c42b1db16e032bc20bf67a3d",
-      "nickname": "문빛",
-      "content": "작땅석 0.1에 157개까지 삽니다~",
-      "displayTime": "1시간 전",
-      "sourceRank": 207,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "04fb65a6b1736a0e40aa3d36",
-      "nickname": "금정다람쥐",
-      "content": "복희목걸이,귀걸이 12 구매합니당",
-      "displayTime": "1시간 전",
-      "sourceRank": 208,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "dbfdb7613deacf7d25ebcaf5",
-      "nickname": "넌뭐하는년",
-      "content": "명왕월 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 209,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "ca91dc4d351d605b21da2b71",
-      "nickname": "매니마차도",
-      "content": "토벌 버티기 10초클 0.5에 한분 모집합니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 210,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "0768a0d3859391eb59109d4c",
-      "nickname": "이동석",
-      "content": "토벌 스피드 260, 아무나 오세요",
-      "displayTime": "1시간 전",
-      "sourceRank": 211,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d89c00e35be2b18da74ee9ca",
-      "nickname": "*신",
-      "content": "한빙검 삽니다.",
-      "displayTime": "2시간 전",
-      "sourceRank": 288,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e756d9bba73f48e27d824586",
-      "nickname": "매니마차도",
-      "content": "토벌 버티기 10초클 0.5에 3분 모집합니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 213,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8077330b3d72af9e3693814a",
-      "nickname": "백종혁님",
-      "content": "두반 11 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 214,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "24ea8b837dc2209b4ee37090",
-      "nickname": "나다민두",
-      "content": "삼)각지국부 35 주작부10.5 항삼부23",
-      "displayTime": "1시간 전",
-      "sourceRank": 215,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "3857aa6c4135582131cb05e5",
-      "nickname": "장건우",
-      "content": "화염셋11 반고2.6ㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 217,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "f676a9dbbed1f2330aed4c28",
-      "nickname": "김키키",
-      "content": "각지국관, 철괴리인형 2개 팝니다 ㅍㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 218,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4ce8b127fc183efe57012929",
-      "nickname": "강철히로",
-      "content": "화사신 60 삽니다 ㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 219,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "36ff0ca99856e7a66486094d",
-      "nickname": "매니마차도",
-      "content": "토벌 버티기 10초클 0.5에 4분모집합니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 220,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "6a83c99716c021afb35a0f6f",
-      "nickname": "채팅러쉬",
-      "content": "무신증장 삼니다.",
-      "displayTime": "1시간 전",
-      "sourceRank": 222,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c2cb95ade36253a20e3114a8",
-      "nickname": "기학",
-      "content": "삼)생비 14",
-      "displayTime": "1시간 전",
-      "sourceRank": 223,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "1eab01f482ef5088cf8b6671",
-      "nickname": "냉정한상인",
-      "content": "팜 수호부오3.2 주작부11 미신8",
-      "displayTime": "1시간 전",
-      "sourceRank": 224,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e9655443acfda5d0ee0fd1e7",
-      "nickname": "황금강냉이",
-      "content": "3각지국(관,신,손) ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 225,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "8c3eb6a591dc1f855fa4e5e7",
-      "nickname": "느끼",
-      "content": "도철의족새 개당8천 ㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 227,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "14e2060d30cf38edcc4f8040",
-      "nickname": "냉정한상인",
-      "content": "팜 수호부오 3.2 주작부11",
-      "displayTime": "1시간 전",
-      "sourceRank": 228,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a524ab54a137bfd398a45c95",
-      "nickname": "*신",
-      "content": "[삼] 한빙검 / 무신보쿠텐",
-      "displayTime": "1시간 전",
-      "sourceRank": 229,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "12d849b0402c7dc3e46c8a71",
-      "nickname": "켓세이",
-      "content": "토벌 스피드 배려x 500만 이상 아무나",
-      "displayTime": "1시간 전",
-      "sourceRank": 230,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "69aac9aebcd6c67496bf8711",
-      "nickname": "해신무사",
-      "content": "수호부오삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 231,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d2e60cb96d19a644a7fb65f9",
-      "nickname": "무황",
-      "content": "토벌 버티기 0.6 파티원 구함",
-      "displayTime": "2시간 전",
-      "sourceRank": 284,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a80b57248270fd6375b7946e",
-      "nickname": "라톰",
-      "content": "삼]각증뚝6각증손6 태반쌍24",
-      "displayTime": "1시간 전",
-      "sourceRank": 233,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "47790643c32249c403c36d68",
-      "nickname": "교칸",
-      "content": "천라갑투 천라셋 ㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 234,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "b7bf35d3b80027dc3cc6b72c",
-      "nickname": "냉정한상인",
-      "content": "팜 주작부11 신년청룡8 신년흑묘8",
-      "displayTime": "1시간 전",
-      "sourceRank": 235,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "f58d41f522a3a703ed2fce58",
-      "nickname": "해신무사",
-      "content": "캐쉬1:2.3 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 237,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d6a4fc6acb5662230734bbe9",
-      "nickname": "아러냐오륲",
-      "content": "삼 ] 현무부 삽니다 ㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 238,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c75799ae8efe1626b80b80be",
-      "nickname": "명재",
-      "content": "종리권 32, 여동빈 11 팔아요",
-      "displayTime": "1시간 전",
-      "sourceRank": 239,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "aee5c8a8f82fb9382a4c0307",
-      "nickname": "*신",
-      "content": "[삼] 한빙검 , 무신보쿠텐",
-      "displayTime": "1시간 전",
-      "sourceRank": 240,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "63e0af69181df7851ac294c1",
-      "nickname": "채팅러쉬",
-      "content": "무신증장 ㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 241,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "cd3d0c0f7f1cbc810d539dfb",
-      "nickname": "상고매",
-      "content": "삼] 힘근 1.55 , 현무부 11 삽니다 ㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 242,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "13b9b41fff2aa4a5d7a8ef1f",
-      "nickname": "朱작",
-      "content": "각지국부 삽ㄴ디ㅏ ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 243,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "75f70ad2eceb3bf300657d76",
-      "nickname": "*신",
-      "content": "한빙검삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 244,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "af52415cf712c193b7320c37",
-      "nickname": "최수아아빠",
-      "content": "토벌버티기 0.5 4/2 빠르게해용^^",
-      "displayTime": "1시간 전",
-      "sourceRank": 245,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "182b941e90e7be11ed45a0dc",
-      "nickname": "성숩s",
-      "content": "벽옥800에200개삼 소량가능/ 각지국요 팜",
-      "displayTime": "1시간 전",
-      "sourceRank": 246,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "de9fecbffe553a1c0604331d",
-      "nickname": "라이플",
-      "content": "토벌 스피드 아무나 ㄱㄱㄱ",
-      "displayTime": "1시간 전",
-      "sourceRank": 247,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a1426d5e1a237cc4e22e9cef",
-      "nickname": "교칸",
-      "content": "풀천라 ㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 249,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2fd585c644856b00aeb80d68",
-      "nickname": "Zer0sraven",
-      "content": "물의 정령석 180만 20개만 사봅니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 250,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "bbb0aaa47af39749f5439749",
-      "nickname": "주끼리",
-      "content": "경20천궁 각천궁+5에 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 251,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e4902c2c87f11895d8d8a4f0",
-      "nickname": "환수사",
-      "content": "1:2.3 3만 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 252,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e293090f3b906c9562f957ba",
-      "nickname": "콩쥐팟쥐",
-      "content": "ㅍ 경20끈천극 가격귓 담주경밴준비하세요",
-      "displayTime": "1시간 전",
-      "sourceRank": 253,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "61f6cf883e857c444fd52e27",
-      "nickname": "티버어",
-      "content": "제천토벌버티기 0.6 가실분 1/4",
-      "displayTime": "1시간 전",
-      "sourceRank": 254,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "30e5c1b17de34a6012ee95f1",
-      "nickname": "거사앙야호",
-      "content": "백호의 석상 7.0 / 족제비 증서 3.0 팝니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 256,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e1ae3fef4b8e6862382a56a7",
-      "nickname": "대다나다!",
-      "content": "식인악어, 사슴 0.4 ㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 257,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "66e933b9962aa2f3b032a371",
-      "nickname": "최수아아빠",
-      "content": "토벌버티기 0.5 암나오세용",
-      "displayTime": "1시간 전",
-      "sourceRank": 259,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "b2f5da6b57ee5f79476646f1",
-      "nickname": "마늘칩",
-      "content": "250 어린수인 15에 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 260,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "16517b7c5f068b79315e71bf",
-      "nickname": "봉티티",
-      "content": "힘기450에 130개 삼니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 262,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "34b24e00750683a0fc7c7660",
-      "nickname": "환수사",
-      "content": "캐시 1:2.25 ㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 263,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "98043152bb89653512c25a52",
-      "nickname": "나는치킨",
-      "content": "수사신,지령,탐기 ㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 264,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "66734194bcfcfcb863726e7b",
-      "nickname": "반챙",
-      "content": "각명궁팔고 힘근삽니다 힘근~",
-      "displayTime": "1시간 전",
-      "sourceRank": 265,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "4ba045af205db0467a6cb1db",
-      "nickname": "사냥해보자",
-      "content": "팜)각지국부,각천검,항삼부,고명검,ㅍㅍㅍ",
-      "displayTime": "1시간 전",
-      "sourceRank": 267,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "be782df11421f5f713d49d1a",
-      "nickname": "경향",
-      "content": "지정버티기 0.7 10초클 파티원 모집 @",
-      "displayTime": "2시간 전",
-      "sourceRank": 285,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "7a98a49a0e4b3713916432f2",
-      "nickname": "문빛",
-      "content": "작땅석 0.1에 157개 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 269,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "e0b0b32f2bf29b4fee2a790e",
-      "nickname": "배신자캬루",
-      "content": "토벌 스피드 0.1 가실분",
-      "displayTime": "1시간 전",
-      "sourceRank": 270,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c4f5f54a69111d4479584166",
-      "nickname": "빅텍",
-      "content": "삼)종리권 ㅅㅅㅅ",
-      "displayTime": "1시간 전",
-      "sourceRank": 271,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "7022124f17f04773315471ea",
-      "nickname": "티버어",
-      "content": "제천토벌버티기 0.6 가실분 모집중",
-      "displayTime": "1시간 전",
-      "sourceRank": 272,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "f408a7359b24473995f67b97",
-      "nickname": "환수사",
-      "content": "유각먹으러 다녀온다",
-      "displayTime": "1시간 전",
-      "sourceRank": 273,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "0f7a047cd9e996bdb710bcbb",
-      "nickname": "냉동건조",
-      "content": "팜 흑방 25 팜 흑방 25",
-      "displayTime": "1시간 전",
-      "sourceRank": 274,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "a55d5970bde8b617db911f58",
-      "nickname": "대리루",
-      "content": "만렙광탄치유 5.5 두마리 사봅니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 275,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "bfc69b32a91a467969480399",
-      "nickname": "*신",
-      "content": "한빙검 삽니다",
-      "displayTime": "1시간 전",
-      "sourceRank": 276,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d799a2cda08741e9f32611b3",
-      "nickname": "러블리진",
-      "content": "팜]238 광탄 치유",
-      "displayTime": "1시간 전",
-      "sourceRank": 277,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "3c32b91711b000234df7530d",
-      "nickname": "마법방패",
-      "content": "[유령] 상단원모집.초보복귀환영!",
-      "displayTime": "2시간 전",
-      "sourceRank": 279,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "b7f0555bdeb6fe2dc6d43928",
-      "nickname": "아가야지지",
-      "content": "고명갑 64에 파라요~~",
-      "displayTime": "2시간 전",
-      "sourceRank": 281,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "fb18fd4ef762a3bd9dbfe429",
-      "nickname": "보르미엄빠",
-      "content": "팜]여동빈의검",
-      "displayTime": "2시간 전",
-      "sourceRank": 282,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "274ee6c35d0f8c4140a843bb",
-      "nickname": "애사비",
-      "content": "250음양사삼니다 1.5",
-      "displayTime": "2시간 전",
-      "sourceRank": 286,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "663db66eb5e1706137302b68",
-      "nickname": "라멘먹고",
-      "content": "하늘빛 수영복 셋트로 팜~",
-      "displayTime": "2시간 전",
-      "sourceRank": 287,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "d4b15392678e4d67ffb71085",
-      "nickname": "류하진",
-      "content": "삼] 고도송 13",
-      "displayTime": "2시간 전",
-      "sourceRank": 289,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "7c97dffba501e9429ab33dec",
-      "nickname": "췱",
-      "content": "2차 식객명부 2.7에 삽니다",
-      "displayTime": "2시간 전",
-      "sourceRank": 290,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "2fb306d248fbbbf0538e8958",
-      "nickname": "마나하임",
-      "content": "팜]도깨비9.5 삼]작땅속0.1",
-      "displayTime": "2시간 전",
-      "sourceRank": 292,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "c6ade26103e80eada5d097a3",
-      "nickname": "태전포화",
-      "content": "본케2차전직하려면 상단 가입해야 하나요?",
-      "displayTime": "2시간 전",
-      "sourceRank": 293,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "0f56b35d83e9f5c03513fbf0",
-      "nickname": "콩쥐팟쥐",
-      "content": "팜] 경20끈천극 가격 귓주세요~",
-      "displayTime": "2시간 전",
-      "sourceRank": 295,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "82d4386c394b1ae4cb2fe885",
-      "nickname": "朱작",
-      "content": "각지국부 사요 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ",
-      "displayTime": "2시간 전",
-      "sourceRank": 298,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "3d9d34b840fe212c9c43e9db",
-      "nickname": "론리링",
-      "content": "백칠이 오이씌~",
-      "displayTime": "2시간 전",
-      "sourceRank": 299,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
-    },
-    {
-      "id": "31f2f1b9f9d04f30ed90de5c",
-      "nickname": "티버어",
-      "content": "팜)파멸자의장갑13 각성석1.2 팝니다",
-      "displayTime": "2시간 전",
-      "sourceRank": 300,
-      "firstSeenAt": "2026-08-09T04:05:45.402Z",
-      "lastSeenAt": "2026-08-09T04:05:45.402Z"
     }
   ]
 }
